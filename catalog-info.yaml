@@ -5,9 +5,9 @@ metadata:
   description: "Slack integration sandbox — exploring AI-assisted communication platform development"
   tags:
     - typescript
-    - scaffolded
+    - web-app
+    - new-feature
   labels:
-    blitzy.com/status: scaffolded
     blitzy.com/language: typescript
   annotations:
     github.com/project-slug: Blitzy-Sandbox/blitzy-slack
